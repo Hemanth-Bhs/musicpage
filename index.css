@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.music-bg-container {
+    background-color: #03174c;
+    height: 100vh;
+}
+
+.music-image-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 40vh;
+    padding: 20px;
+    background-size: cover;
+}
+
+.music-header {
+    font-size: 30px;
+    font-family: Bree Serif;
+    color: #ffffff;
+}
+
+.description {
+    font-size: 15px;
+    font-family: Bree Serif;
+    color: #ffffff;
+}
+
+.button {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: Bree Serif;
+    background-color: #8e97fd;
+    border-radius: 15px;
+    border-width: 0px;
+    width: 100px;
+    height: 30px;
+}
+
+.island-card {
+    padding: 20px;
+}
+
+.island-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    border-radius: 10px;
+    height: 200px;
+    background-size: cover;
+    margin-bottom: 15px;
+}
+
+.island-hd {
+    font-size: 30px;
+    font-family: Bree Serif;
+    color: #ffe7bf;
+}
+
+.music-detail-bg-container {
+    background-color: #03174c;
+    background-size: cover;
+}
+
+.island-image {
+    width: 100vw;
+}
+
+.music-dt-container {
+    padding: 20px;
+}
+
+.island-head {
+    font-size: 25px;
+    font-family: Bree Serif;
+    color: #ffffff;
+}
+
+.nt-description {
+    font-size: 12px;
+    font-family: Bree Serif;
+    color: #98a1bd;
+}
+
+.time {
+    font-size: 12px;
+    font-family: Bree Serif;
+    color: #98a1bd;
+}
+
+.related {
+    font-size: 15px;
+    font-family: Bree Serif;
+    color: #ffffff;
+}
+
+.music-card {
+    margin-right: 8px;
+}
+
+.moon-image {
+    height: 100px;
+    width: 150px;
+}
